@@ -1,11 +1,18 @@
 # Plant-disease-detection-and-classification-using-cnn
-Overview:
-This project aims to detect and classify plant diseases using Convolutional Neural Networks (CNNs). It takes an image of a plant leaf as input, processes it using a trained model, and predicts the disease category. The system provides insights on the disease, its causes, and possible treatments.
+Agriculture plays a crucial role in global food production, but plant diseases pose a significant threat to crop yield and quality. Early and accurate detection of plant diseases is essential for taking timely preventive measures.
 
-Features:
-Image-based Disease Detection – Upload an image of a plant leaf to detect the disease.
-Deep Learning Model – Uses a custom CNN model (PyTorch) for classification.
-Multi-class Classification – Detects and classifies multiple plant diseases.
-Treatment Suggestions – Provides disease descriptions and treatment recommendations.
-High Accuracy – Trained on the PlantVillage dataset for robust performance.
+This project, Plant Disease Detection and Classification, is an AI-powered system that identifies diseases in plants based on leaf images. By leveraging Convolutional Neural Networks (CNNs), the model can classify multiple plant diseases with high accuracy.
+
+The system takes an image of a plant leaf as input and processes it through a deep learning model trained on the PlantVillage dataset. It then predicts the disease category and provides valuable insights, such as:
+Disease Name
+Causes of the Disease
+Treatment Suggestions (Pesticides, Organic Remedies, Prevention Techniques)
+
+Why is this Important?
+Reduces Crop Loss – Early detection helps in quick treatment, preventing widespread damage.
+Minimizes Chemical Use – Suggests optimal pesticide use, promoting sustainable farming.
+Affordable & Scalable – A cost-effective solution accessible via a mobile or web application.
+Enhances Productivity – Supports farmers in improving crop health and yield.
+
+
 
